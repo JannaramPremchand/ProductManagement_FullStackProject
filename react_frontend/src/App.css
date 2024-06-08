@@ -93,3 +93,8 @@
   background-color: green;
   color: aliceblue;
 }
+img.card-img-top {
+  height: 17rem;
+  object-fit: cover;
+  padding: 1rem;
+}
